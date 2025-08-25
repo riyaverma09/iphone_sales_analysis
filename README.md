@@ -36,7 +36,8 @@ The goal is to explore ratings, reviews, pricing, and discounts to understand cu
 ### 3️⃣ Relationship Between Price & Ratings  
 ![Price vs Ratings](price_vs_ratings.png)  
 
-###  Relationship Between Discount & Ratings  
+### 4️⃣ Relationship Between Discount & Ratings  
+![Discount vs Ratings](discount_vs_ratings.png) 
 ---
 
 ## 📌 How to Run
