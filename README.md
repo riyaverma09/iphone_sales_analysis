@@ -31,7 +31,7 @@ The goal is to explore ratings, reviews, pricing, and discounts to understand cu
 ![Top 10 iPhones](top_rated.png)  
 
 ### 2️⃣ Number of Reviews of Highest Rated iPhones  
-![Number of Reviews](screenshots/reviews.png)  
+![Number of Reviews](reviews.png)  
 
 ### 3️⃣ Relationship Between Price & Ratings  
 ![Price vs Ratings](screenshots/price_vs_ratings.png)  
